@@ -10,7 +10,6 @@ Paprastas Balatro žaidimo įkvėptas prototipas, sukurtas naudojant LÖVE 2D ž
 
 -   **Žaidimo variklis:** [LÖVE 2D](https://love2d.org/) (v11.x)
 -   **Programavimo kalba:** Lua
--   **Pagalba:** AI Asistentas (porinis programavimas)
 
 ## Kaip paleisti žaidimą
 
