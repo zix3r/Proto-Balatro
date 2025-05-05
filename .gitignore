@@ -1,0 +1,6 @@
+# LÖVE 2D specific
+*.love
+
+# OS generated files
+.DS_Store
+Thumbs.db 
