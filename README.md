@@ -1,6 +1,6 @@
 # Proto-Balatro (LÖVE 2D Prototipas)
 
-Paprastas Balatro žaidimo įkvėptas prototipas, sukurtas naudojant LÖVE 2D žaidimų variklį ir Lua programavimo kalbą. Projektas buvo vystomas porinio programavimo metodu su AI asistentu.
+Paprastas Balatro žaidimo įkvėptas prototipas, sukurtas naudojant LÖVE 2D žaidimų variklį ir Lua programavimo kalbą.
 
 ## Reikalavimai
 
